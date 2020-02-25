@@ -1,7 +1,2 @@
-{
-	"name": "readme",
-	"description": "makes a readme",
-	"Contents": [
-		"Yes"
-	]
-}
+This is a program that creates a readme based on user input.
+
